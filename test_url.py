@@ -10,7 +10,7 @@ urllib3.disable_warnings()
 url_list = []
 url_que = queue.Queue()
 
-with open("E:\\编程\\python练习\\常用库练习\\gevent\\url1.txt","r",encoding="utf-8") as f:
+with open("file_path","r",encoding="utf-8") as f:
     url_list = f.readlines()
 
 def test_url():

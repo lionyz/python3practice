@@ -1,2 +1,2 @@
-# python3---url--
+# python3
 python练习
